@@ -3,7 +3,10 @@
     <h1 align="center" id="user-content-hey--whats-up" dir="auto">Hello
         World 👋
     </h1>
-    <img align="center" height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+  <p style="text-align: center;">
+    <img style="display: block; margin: 0 auto;" height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+</p>
+
     <p align="center" dir="auto">At Ultra-Deep we develop👨‍💻 apps to help people such as educational apps, all of our
         apps are
         free, lightweight and can be used offline📶 Our apps are listed in Play Store, App Store(iOS and MacOS),
