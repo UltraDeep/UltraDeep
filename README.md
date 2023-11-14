@@ -2,10 +2,8 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <h1 align="center" id="user-content-hey--whats-up" dir="auto">Hello
         World 👋
-        <p align="center">
-            <img height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-        </p>
     </h1>
+    <img align="center" height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
     <p align="center" dir="auto">At Ultra-Deep we develop👨‍💻 apps to help people such as educational apps, all of our
         apps are
         free, lightweight and can be used offline📶 Our apps are listed in Play Store, App Store(iOS and MacOS),
